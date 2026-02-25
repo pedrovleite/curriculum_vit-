@@ -1,6 +1,6 @@
 # Pedro Vasconcelos Leite
 
-**Frontend Engineer (Angular) | TypeScript | Enterprise Web Applications | Open to Remote International Roles**  
+**Frontend Engineer (Angular) | TypeScript | Enterprise Web Applications**  
 Lisbon, Portugal (UTC/WET) · Remote-friendly
 
 - **Email:** pedro.v.f.c.leite@gmail.com
